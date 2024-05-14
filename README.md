@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiebryhoga" alt="fiebryhoga" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dimasfiebry.vercel.app](https://dimasfiebry.vercel.app)
+- 👨‍💻 All of my projects are available at [soon]
 
 - 💬 Ask me about **Web Developing**
 
