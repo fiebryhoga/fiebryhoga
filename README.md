@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiebryhoga&label=Profile%20views&color=0e75b6&style=flat" alt="fiebryhoga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiebryhoga" alt="fiebryhoga" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [soon]
 
@@ -21,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiebryhoga&show_icons=true&locale=en&layout=compact" alt="fiebryhoga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiebryhoga&show_icons=true&locale=en" alt="fiebryhoga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiebryhoga&" alt="fiebryhoga" /></p>
