@@ -17,9 +17,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiebryhoga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Statistics" height="150" alt="stats graph"  />
 
-</div>
 
 
